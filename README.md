@@ -8,6 +8,6 @@ zTree 默认的风格优化版
 
 ## 效果体验
 
-下载源码代码 https://github.com/zTree/zTree_v3 将 `css/zTreeStyle` 目录覆盖体验。
+将 `css/zTreeStyle` 目录覆盖到 [zTree](https://github.com/zTree/zTree_v3) 目录中即可。
 
 ![效果图](https://github.com/supefun/zTreeStyle/raw/master/screen.png)
